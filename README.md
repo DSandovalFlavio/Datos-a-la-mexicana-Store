@@ -26,4 +26,4 @@ Link a mi repo de Github: (Repo Github)(https://github.com/DSandovalFlavio/Datos
 
 ---
 
-- [Semana 1](Primera-semana.md)
+- [Semana 1](./Primera-Semana.md)
