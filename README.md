@@ -1,2 +1,2 @@
 # Datos-a-la-mexicana-Store
-Encontrarás tutoriales y guías paso a paso que te ayudarán a aprender y aplicar los conocimientos adquiridos en el proceso. ¡Esperamos que esta información te resulte útil y te ayude a tener éxito en el reto!
+En este repositorio contiene información y tutoriales relacionados con el reto en Datos a la mexicana Store. Aquí podrás encontrar todos los recursos necesarios para comprender mejor el enfoque del reto y cómo abordarlo de manera efectiva. También encontrarás tutoriales y guías paso a paso que te ayudarán a aprender y aplicar los conocimientos adquiridos en el proceso. ¡Esperamos que esta información te resulte útil y te ayude a tener éxito en el reto!
