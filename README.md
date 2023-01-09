@@ -22,4 +22,8 @@ Por lo tanto, a quienes quieran recibir el pago del aprendizaje duradero, les in
 
 Link Registro: [https://forms.gle/qETovpFn2RqDmNPA8](https://forms.gle/qETovpFn2RqDmNPA8)
 
-Link a mi repo de Github: [https://github.com/DSandovalFlavio/Datos-a-la-mexicana-Store]
+Link a mi repo de Github: (Repo Github)(https://github.com/DSandovalFlavio/Datos-a-la-mexicana-Store)
+
+---
+
+- [Semana 1](Primera-semana.md)
