@@ -3,6 +3,8 @@ En este repositorio contiene información y tutoriales relacionados con el reto 
 
 ---
 
+# Introduccion
+
 Hoy comenzamos con el primer reto (proyecto) del año. Como todos saben, la mejor forma de iniciar un proceso de aprendizaje es a través de la práctica y, ¿qué mejor forma de hacerlo que a través de un proyecto en una empresa?
 
 Este proyecto tiene como objetivo aprender sobre diferentes conceptos relacionados con la gestión y análisis de datos, tales como:
@@ -20,4 +22,4 @@ Por lo tanto, a quienes quieran recibir el pago del aprendizaje duradero, les in
 
 Link Registro: [https://forms.gle/qETovpFn2RqDmNPA8](https://forms.gle/qETovpFn2RqDmNPA8)
 
-Link a mi repo de Github: 
+Link a mi repo de Github: [https://github.com/DSandovalFlavio/Datos-a-la-mexicana-Store]
