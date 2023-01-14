@@ -32,7 +32,7 @@ Eso es todo, si cumples con los requisitos, puedes participar en este proyecto.
 
 Tendras que completar los siguientes pasos:
 
-- [Biendvenida a ala empresa(Ficticia) e introduccion al proyecto](Bienvenida-Introduccion.md)
+- [Bienvenida a la empresa (Ficticia) e introducción al proyecto](Bienvenida-Introduccion.md)
 - [Primer Sprint(1 semana) SQL](Primer-Sprint.md)
 - [Segundo Sprint(2 semanas) Bases de Datos](Segundo-Sprint.md)
 - [Tercer Sprint(4 semanas) Python - Pandas](Tercer-Sprint.md) "Proximamente"
