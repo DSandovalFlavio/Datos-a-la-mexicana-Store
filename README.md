@@ -1,6 +1,6 @@
 ![Head](Img/Datapipeline.png)
 
-# Datos a la mexicana Store
+# Datos a la Mexicana Store
 
 Estas buscando convertirte en Data Analyst o Data Engineer? ¿Quieres aprender sobre bases de datos, SQL, Python, ETL, Tableau, Streamlit, etc.? ¿Quieres aprender de manera práctica y con un proyecto? ¡Entonces este es el lugar indicado!
 
