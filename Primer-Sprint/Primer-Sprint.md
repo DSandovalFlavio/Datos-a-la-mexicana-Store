@@ -8,6 +8,8 @@ Hola, mi nombre es Flavio Sandoval. Bienvenido nuevamente a este espectacular re
 
 Un sprint es un periodo de tiempo en el que se realizan actividades para lograr un objetivo. Esta modalidad de trabajo es muy utilizada en el mundo del desarrollo de software. Nos permite hacer pequeñas entregas de valor y al final, las entregas acumuladas nos permiten lograr un objetivo mayor.
 
+Por lo que te recomiendo ponerte objetivos pequeños y alcanzables, que te permitan avanzar poco a poco y al final, lograr el objetivo final.
+
 A continuación, te proporciono información útil para que puedas entender un poco más cómo se resolverá este primer entregable:
 
 - Duración del Sprint: 1 Semana
@@ -15,7 +17,7 @@ A continuación, te proporciono información útil para que puedas entender un p
 - Link Data: [Supertienda | Kaggle](https://www.kaggle.com/datasets/flaviocesarsandoval/supertienda)
 - Link Curso SQL: [Curso SQL](https://www.sololearn.com/learning/1060)
 - Instalación de MySQL: [Instalacion MySQL Windows](https://www.youtube.com/watch?v=Cz3ROw_93yY)
-- Instalación de MySQL: [Instalacion MySQL Mac](hhttps://www.youtube.com/watch?v=BHEe1j4Jevs&t=434s)
+- Instalación de MySQL: [Instalacion MySQL Mac](https://www.youtube.com/watch?v=BHEe1j4Jevs&t=434s)
 
 ---
 ## Introduccion
@@ -44,8 +46,8 @@ Si no sabes cómo instalar MySQL, te dejo un video de cómo hacerlo en Windows y
 
 Si necesitas más ayuda te dejo lo siguiente:
 
-- Un resumen muy corto de que es [SQL](IntroSQL.md).
-- La solución de este [Reto](Solucion-Primer-Sprint.md).
+- Un resumen muy corto de que es [SQL](/Tutoriales/IntroSQL.md).
+- La solución de este [Reto](/Primer-Sprint/Primer-Sprint-Solucion.md).
 
 Te dejo estas imágenes para que puedas ver la mejor manera de resolver las preguntas utilizando SQL.
 
@@ -59,7 +61,7 @@ Te quisiera adelantar que el siguiente Sprint será muy interesante, ya que vamo
 Puedes dirigirte a las siguientes páginas para continuar en tu segundo sprint
 
 - [Home](README.md)
-- [Segundo Sprint](Segundo-Sprint.md)
+- [Segundo Sprint](/Segundo-Sprint/Segundo-Sprint.md)
 
 ---
 
