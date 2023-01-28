@@ -1,6 +1,6 @@
 # Segundo Sprint
 
-![ERM](../Img/entity-relationship-diagrams.jpg)
+![ERM](../Img/entity-relationship-diagrams.png)
 
 Hola, ¡el sprint anterior fue muy productivo! Esperamos que este sea igual de productivo. Ya que aprendiste SQL como lenguaje de consulta a bases de datos, ahora vamos a trabajar en el modelado de datos. Para ello, utilizaremos la teoría de las bases de datos relacionales.
 
