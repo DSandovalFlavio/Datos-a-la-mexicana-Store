@@ -1,5 +1,7 @@
 # Primer Sprint
 
+![SQL](../Img/SQL%20baner.jpg)
+
 ## Presentación
 
 Hola, mi nombre es Flavio Sandoval. Bienvenido nuevamente a este espectacular reto. Soy el líder de este proyecto y te contaré un poco sobre lo que realizaremos en esta primera entrega del proyecto.

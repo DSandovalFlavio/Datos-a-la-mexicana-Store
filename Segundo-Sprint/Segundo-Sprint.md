@@ -1,5 +1,7 @@
 # Segundo Sprint
 
+![ERM](../Img/entity-relationship-diagrams.jpg)
+
 Hola, ¡el sprint anterior fue muy productivo! Esperamos que este sea igual de productivo. Ya que aprendiste SQL como lenguaje de consulta a bases de datos, ahora vamos a trabajar en el modelado de datos. Para ello, utilizaremos la teoría de las bases de datos relacionales.
 
 ¿Por qué vamos a hacer esto? Como ya sabes, vamos a migrar nuestra anterior base de datos a una base de datos relacional. Esto nos ayudará a tener una mejor organización de los datos, y nos permitirá saber dónde se encuentran los datos que necesitamos. Además, con una base de datos relacional podremos hacer consultas más complejas, y hacer consultas que no podíamos hacer en la base de datos anterior.
