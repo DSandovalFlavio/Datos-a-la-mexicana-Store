@@ -9,4 +9,4 @@ Nuestra empresa se basa en la innovación y en la búsqueda continua de la excel
 Puedes acceder a las siguientes páginas para continuar en tu primer sprint.
 
 - [Home](README.md)
-- [Primer Sprint](Primer-Sprint.md)
+- [Primer Sprint](/Primer-Sprint/Primer-Sprint.md)
