@@ -37,26 +37,20 @@ En resumen, quiero que en esta presentación demos una visión general de cómo 
 
 ---
 
-Al finalizar este esprint, deberás haber aprendido:
+Al finalizar este esprint, deberás haber adquirido una amplia gama de conocimientos y habilidades relacionadas con las bases de datos relacionales y su importancia en la migración de bases de datos. En primer lugar, se espera que comprendas la teoría detrás de las bases de datos relacionales y su importancia en la organización y almacenamiento de datos. Aprenderás cómo utilizar esta teoría para modelar tus datos de una manera más eficiente, lo que te permitirá hacer consultas más complejas en una base de datos relacional.
 
-- Comprender la teoría de las bases de datos relacionales y su importancia en la migración de bases de datos.
-- Aprender cómo utilizar la teoría de las bases de datos relacionales para modelar los datos de una manera más eficiente.
-- Adquirir habilidades para hacer consultas más complejas en una base de datos relacional.
-- Migrar la base de datos anterior a una base de datos relacional y comprobar que mejora la organización de los datos.
-- Crear tablas relacionales adicionales para enriquecer la base de datos y mejorar la eficiencia en las consultas.
-- Utilizar las tablas relacionales creadas para reutilizar la información y tomar mejores decisiones en el uso de los datos.
-- Presentar la base de datos relacional al equipo de negocio y demostrarles que la migración fue un éxito.
-- Mostrar cómo se relacionan las tablas entre sí y cómo se relacionan con la base de datos anterior.
-- Explicar cómo se puede reutilizar la información de las tablas relacionales para tomar mejores decisiones.
+Además, tendrás la oportunidad de poner en práctica lo que has aprendido al migrar una base de datos anterior a una base de datos relacional y comprobar que esta migración mejora significativamente la organización de los datos. Crearás tablas relacionales adicionales para enriquecer la base de datos y mejorar la eficiencia en las consultas. Utilizarás estas tablas relacionales para reutilizar la información y tomar mejores decisiones en el uso de los datos.
+
+Por último, tendrás la oportunidad de presentar la base de datos relacional al equipo de negocio y demostrarles que la migración fue un éxito. Además, explicarás cómo se relacionan las tablas entre sí y cómo se relacionan con la base de datos anterior, y cómo se puede reutilizar la información de las tablas relacionales para tomar mejores decisiones. En resumen, este esprint te proporcionará las habilidades y conocimientos necesarios para manejar y utilizar bases de datos relacionales de manera eficiente y efectiva.
 
 ---
 
-# Solución
+**Solución**
 
 Mi solucion proximamente estara disponible :)
 
 ---
 
-[Home](../README.md)
-[Sprint 1](/Primer-Sprint/Primer-Sprint.md)
-[Sprint 3](/Tercer-Sprint/Tercer-Sprint.md)
+- [Home](../README.md)
+- [Sprint 1](/Primer-Sprint/Primer-Sprint.md)
+- [Sprint 3](/Tercer-Sprint/Tercer-Sprint.md)
