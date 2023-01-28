@@ -51,8 +51,8 @@ Si necesitas más ayuda te dejo lo siguiente:
 
 Te dejo estas imágenes para que puedas ver la mejor manera de resolver las preguntas utilizando SQL.
 
-![SQL1](./Img/SQL1.png)
-![SQL2](./Img/SQL2.png)
+![SQL1](/Img/SQL1.png)
+![SQL2](/Img/SQL2.png)
 
 Te quisiera adelantar que el siguiente Sprint será muy interesante, ya que vamos a empezar a modelar la información y a crear las tablas que necesitamos para poder almacenar los datos de manera eficiente. Estos son conceptos más relacionados con bases de datos, pero no te preocupes, te daremos todo el soporte que necesites.
 
