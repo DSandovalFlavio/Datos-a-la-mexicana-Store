@@ -6,7 +6,7 @@ Estas buscando convertirte en Data Analyst o Data Engineer? ¿Quieres aprender s
 
 ## Objetivo
 
-El objetivo de este proyecto es que puedas obtener un aprendizaje duradero, es decir, que puedas aprender de manera práctica y que puedas aplicar tus conocimientos en un proyecto similar al que te encontrarías en un trabajo real. La duración ideal de este proyecto es de 4 meses, pero puedes hacerlo a tu ritmo. Si quieres recibir el pago del aprendizaje duradero, te invitamos a participar en este mini proyecto.
+El objetivo de este proyecto es que puedas obtener un aprendizaje duradero, es decir, que puedas aprender de manera práctica y que puedas aplicar tus conocimientos en un proyecto similar al que te encontrarías en un trabajo real. La duración ideal de este proyecto es de 4 meses, pero puedes hacerlo a tu ritmo. Si quieres recibir el pago del aprendizaje duradero, te invitamos a participar en este proyecto.
 
 ## ¿Qué es el aprendizaje duradero?
 
